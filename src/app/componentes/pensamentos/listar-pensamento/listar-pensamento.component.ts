@@ -17,6 +17,11 @@ export class ListarPensamentoComponent implements OnInit {
       conteudo: 'Minha propriedade é decora com component @input',
       autoria: 'Angular',
       modelo: 'modelo3'
+    },
+    {
+      conteudo: 'Morbi leo mi, nonummy eget, tristique non, rhoncus non, leo. Nullam faucibus mi quis velit. Integer in sapien. Fusce tellus odio, dapibus id, fermentum quis, suscipit id, erat. Fusce aliquam vestibulum ipsum. Aliquam erat volutpat. Pellentesque sapien. Cras elementum. Nulla pulvinar eleifend',
+      autoria: 'Angular',
+      modelo: 'modelo1'
     }
   ];
 
