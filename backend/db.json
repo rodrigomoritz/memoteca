@@ -1,22 +1,38 @@
 {
   "pensamentos": [
     {
-      "id":1,
-      "conteudo":"Que bom que vc veio",
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
       "autoria": "RM",
-      "modelo":"modelo1"
+      "modelo": "modelo1"
     },
     {
-      "id":2,
-      "conteudo":"Angular",
+      "id": 2,
+      "conteudo": "Angular",
       "autoria": "RM",
-      "modelo":"modelo2"
+      "modelo": "modelo2"
     },
     {
-      "id":3,
-      "conteudo":"TypeScript",
+      "id": 3,
+      "conteudo": "TypeScript",
       "autoria": "RM",
-      "modelo":"modelo3"
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Pensamento de Teste Dev",
+      "autoria": "Rodrigo Moritz",
+      "id": 4
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "Teste",
+      "id": 5
+    },
+    {
+      "conteudo": "AAAA",
+      "autoria": "AAAA",
+      "modelo": "modelo1",
+      "id": 6
     }
   ]
 }
